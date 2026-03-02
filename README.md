@@ -1,19 +1,23 @@
-# Chuck Norris Joke
+<div align="center">
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/f7a0fc98-5016-461f-b1da-6578df3d44ae/deploy-status)](https://app.netlify.com/sites/chucknorris-joke/deploys)
+# Chuck Norris
 
-A [generator](https://chucknorris-joke.netlify.app/)  of Chuck Norris style jokes using [Chuck Norris API](https://api.chucknorris.io/) 
+https://chucknorris-joke.netlify.app/
 
-Side note: the quality of jokes depends on your's sense of humour, but great for dad jokes lovers!
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
+![Status](https://img.shields.io/badge/Status-Active-green?style=flat-square)
 
-## Purpose, learning goal
+[Live Demo](https://chucknorris-joke.netlify.app/)
 
-Working with API, fetching API, asynchronous JS
+</div>
 
-### Built with
+---
 
-- Javascript, HTML, CSS
+## Quick Start
 
-### Possible improvements
-
-Chuck Norris said its perfect, no comments needed 🔥
+```bash
+git clone https://github.com/stussysenik/Chuck-Norris.git
+cd Chuck-Norris
+npm install  # or bun install
+npm run dev
+```
